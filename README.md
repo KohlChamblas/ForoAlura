@@ -1,10 +1,5 @@
 # Challenge ONE - Back End Java + Spring - API Rest Foro Alura.
 
-![Badge Release](https://img.shields.io/badge/Release%20Date:-Mayo-blue)``
-![Badge Java](https://img.shields.io/badge/Java:-17-blue)
-![Badge Java](https://img.shields.io/badge/Spring%20Boot:-3.1.0-blue)
-![Badge Finalizado](https://img.shields.io/badge/Status:-Finalizado-blue)
-
 ## Descrpción del Proyecto
 
 Es la resolución del **Challenge - Foro Alura** utilizando **Spring Boot** para la creacion de la API Rest, **MySQL** para las bases de datos y **Java 17** para el desarrollo con ayuda del IDE de **Intellij** e **Insomnia** para las respectivas pruebas a la API. Cuarto reto de la formación **Oracle Next Education (ONE)** de **Oracle + Alura LATAM**.
